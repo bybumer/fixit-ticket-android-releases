@@ -10,7 +10,8 @@ FIXIT Ticket mobil tətbiqinin **imzalı APK** faylları. Mənbə kodu burada de
 2. Açın → «Quraşdır». İlk dəfə Android «naməlum mənbədən quraşdırma» üçün
    icazə istəyir - brauzerə (və ya fayl menecerinə) icazə verin.
 3. Növbəti versiyalar tətbiqin özündə görünür: ekranın üstündə
-   «Yeni versiya mövcuddur → Endir» zolağı.
+   «Yeni versiya mövcuddur → Endir» zolağı, Profildə isə yeniləmə kartı
+   (1.0.6-dan: «Yoxla» düyməsi ilə istənilən vaxt əl ilə yoxlamaq olur).
 
 Tətbiq Google Play-dən quraşdırılıbsa, yeniləmə Play-in öz mexanizmi ilə gəlir.
 
@@ -19,7 +20,7 @@ Tətbiq Google Play-dən quraşdırılıbsa, yeniləmə Play-in öz mexanizmi il
 Tətbiq 6 saatdan bir bu repo-nun `main` budağındakı `latest.json`-u oxuyur:
 
 ```json
-{ "version": "1.0.4", "apk_url": "https://raw.githubusercontent.com/…/apk/FIXIT-Ticket-1.0.4.apk" }
+{ "version": "1.0.6", "apk_url": "https://raw.githubusercontent.com/…/apk/FIXIT-Ticket-1.0.6.apk" }
 ```
 
 `version` quraşdırılmışdan böyükdürsə, `apk_url` endirmə linki kimi göstərilir.

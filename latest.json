@@ -1,13 +1,13 @@
 {
-  "version": "1.0.4",
-  "version_code": 10004,
-  "apk_url": "https://raw.githubusercontent.com/bybumer/fixit-ticket-android-releases/main/apk/FIXIT-Ticket-1.0.4.apk",
-  "sha256": "008da30568e6bbb571e0355048e4e1300091d328db0c239da9614b82d13fb795",
+  "version": "1.0.6",
+  "version_code": 10006,
+  "apk_url": "https://raw.githubusercontent.com/bybumer/fixit-ticket-android-releases/main/apk/FIXIT-Ticket-1.0.6.apk",
+  "sha256": "a07e7a9e8999fdaabf1fc9c82f1e364513af32de9854f012a5a2fd1375f58d3e",
   "released": "2026-10-11",
   "min_android": "8.0",
   "notes": {
-    "az": "İlk imzalı reliz: iki mərhələli doğrulama ilə giriş, server bloku ekranı, agent imzası, layihəni silmək, bildiriş düzəlişləri, avtomatik yeniləmə yoxlaması.",
-    "en": "First signed release: two-step verification login, server block screen, agent signature, clearing a project, notification fixes, automatic update check.",
-    "ru": "Первый подписанный релиз: вход с двухэтапной проверкой, экран блокировки сервера, подпись агента, снятие проекта, исправления уведомлений, автоматическая проверка обновлений."
+    "az": "Yeni dizayn: ana səhifədə icmal, SLA-ya görə «Mənim növbəm» və son dəyişikliklər; yeni alt panel (mərkəzdə «Yeni», «Mənim» tab-ı, nişanlar); Profildə yeniləmə kartı («Yoxla»); yeni «Tətbiq ayarları» bölməsi (tema, dil, bildirişlər, fon yoxlaması, ekran görüntüsü qadağası, yaddaş, yeniləmələr).",
+    "en": "New design: dashboard overview, an SLA-sorted “My queue” and recent changes; a new bottom bar (centre “New”, “Mine” tab, badges); an update card in Profile (“Check”); a new “App settings” section (theme, language, notifications, background check, screenshot blocking, storage, updates).",
+    "ru": "Новый дизайн: обзор на главной, «Моя очередь» по срокам SLA и последние изменения; новая нижняя панель («Создать» в центре, вкладка «Мои», значки); карточка обновления в профиле («Проверить»); новый раздел «Настройки приложения» (тема, язык, уведомления, фоновая проверка, запрет снимков экрана, хранилище, обновления)."
   }
 }
