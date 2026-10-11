@@ -1,0 +1,13 @@
+{
+  "version": "1.0.4",
+  "version_code": 10004,
+  "apk_url": "https://raw.githubusercontent.com/bybumer/fixit-ticket-android-releases/main/apk/FIXIT-Ticket-1.0.4.apk",
+  "sha256": "008da30568e6bbb571e0355048e4e1300091d328db0c239da9614b82d13fb795",
+  "released": "2026-10-11",
+  "min_android": "8.0",
+  "notes": {
+    "az": "İlk imzalı reliz: iki mərhələli doğrulama ilə giriş, server bloku ekranı, agent imzası, layihəni silmək, bildiriş düzəlişləri, avtomatik yeniləmə yoxlaması.",
+    "en": "First signed release: two-step verification login, server block screen, agent signature, clearing a project, notification fixes, automatic update check.",
+    "ru": "Первый подписанный релиз: вход с двухэтапной проверкой, экран блокировки сервера, подпись агента, снятие проекта, исправления уведомлений, автоматическая проверка обновлений."
+  }
+}
